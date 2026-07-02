@@ -1,24 +1,22 @@
-## Hi there 👋
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00979D,100:1572B6&height=200&section=header&text=Hey,%20I'm%20Rodrick%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9D4EDD&height=200&section=header&text=Hey,%20I'm%20Rodrick%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00979D&center=true&vCenter=true&width=500&lines=Tinkering+with+Arduino+%F0%9F%94%A7;Building+Adventure+of+Rohlik+%F0%9F%8E%AE;Writing+Python+%26+C%2B%2B;Based+in+Pardubice%2C+Czechia+%F0%9F%87%A8%F0%9F%87%BF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B084F5&center=true&vCenter=true&width=500&lines=Tinkering+with+Arduino+%F0%9F%94%A7;Building+Adventure+of+Rohlik+%F0%9F%8E%AE;Writing+Python+%26+C%2B%2B;Based+in+Pardubice%2C+Czechia+%F0%9F%87%A8%F0%9F%87%BF" />
 </p>
 
 <!-- Quick-link buttons -->
 <p align="center">
   <a href="http://rodrickhmmm.github.io">
-    <img src="https://img.shields.io/badge/🌐_Website-Visit-00979D?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Website-Visit-000000?style=for-the-badge&labelColor=9D4EDD&color=000000" />
   </a>
   <a href="https://www.youtube.com/@Rodrick1">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-000000?style=for-the-badge&logo=youtube&logoColor=9D4EDD&labelColor=000000" />
   </a>
   <a href="https://github.com/rodrickhmmm?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Browse-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repos-Browse-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=9D4EDD" />
   </a>
 </p>
 
@@ -33,26 +31,26 @@
 
 ### 🧰 Tech I reach for
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=9D4EDD&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=9D4EDD&labelColor=000000)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=9D4EDD&labelColor=000000)
+![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=9D4EDD&labelColor=000000)
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrickhmmm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrickhmmm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrickhmmm&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=B084F5&icon_color=9D4EDD&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrickhmmm&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B084F5&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrickhmmm&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrickhmmm&hide_border=true&background=0D0D0D&stroke=9D4EDD&ring=9D4EDD&fire=B084F5&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B084F5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrickhmmm&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrickhmmm&hide_border=true&bg_color=0D0D0D&color=B084F5&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD" />
 </p>
 
 ---
@@ -72,15 +70,15 @@
 ### 🐍 Contribution snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> ⚠️ The snake graphic needs a one-time GitHub Actions setup (below) — it won't render until then.
+> ⚠️ Needs a one-time GitHub Actions setup — see notes below.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodrickhmmm&style=for-the-badge&color=00979D" />
+  <img src="https://komarev.com/ghpvc/?username=rodrickhmmm&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS&labelColor=000000" />
 </p>
 
 <p align="center"><i>Thanks for stopping by ⭐</i></p>
