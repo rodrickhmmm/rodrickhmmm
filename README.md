@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B084F5&center=true&vCenter=true&width=550&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;Studying+at+OA+TGM+Kostelec+nad+Orlici+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B084F5&center=true&vCenter=true&width=550&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;" />
 </p>
 
 <!-- Quick-link buttons -->
