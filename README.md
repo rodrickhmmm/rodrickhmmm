@@ -28,10 +28,11 @@ I'm Rodri, a student who mostly lives in Python — writing small GUI tools and 
 
 ```bash
 rodri@github:~$ cat about.txt
-School         : Obchodni akademie TGM, Kostelec nad Orlici (3rd year)
-Location       : Czechia
-Learning lang  : C#
-Want to learn  : Web frameworks (React, etc.) — someday soon
+School    : Obchodni akademie TGM, Kostelec nad Orlici (3rd year)
+Location  : Czechia
+Learning  : C#
+Want      : Web frameworks (React, etc.) — someday soon
+Status    : compiling...
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
@@ -86,12 +87,7 @@ Want to learn  : Web frameworks (React, etc.) — someday soon
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrickhmmm&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrickhmmm&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=7B2FD4&text_color=FFFFFF" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrickhmmm&hide_border=true&background=0D0D0D&stroke=3F0591&ring=3F0591&fire=7B2FD4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7B2FD4" />
-
-<img src="https://github-readme-trophies.vercel.app/?username=rodrickhmmm&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10&title_color=7B2FD4&icon_color=3F0591&background=0D0D0D&text_color=FFFFFF" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrickhmmm&hide_border=true&bg_color=0D0D0D&color=7B2FD4&line=3F0591&point=FFFFFF&area=true&area_color=3F0591" />
 
@@ -101,20 +97,9 @@ Want to learn  : Web frameworks (React, etc.) — someday soon
 
 ## 📌 &nbsp;Some of my projects
 
-<div align="center">
-
-<a href="https://github.com/rodrickhmmm/C4BombaArduinoProjekt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrickhmmm&repo=C4BombaArduinoProjekt&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF&hide_border=true" />
-</a>
-<a href="https://github.com/rodrickhmmm/RovnomerPenez">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rodrickhmmm&repo=RovnomerPenez&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF&hide_border=true" />
-</a>
-<br>
-<a href="https://github.com/Balatro-U/Balatro-U.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Balatro-U&repo=Balatro-U.github.io&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF&hide_border=true" />
-</a>
-
-</div>
+- 🔗 [**C4BombaArduinoProjekt**](https://github.com/rodrickhmmm/C4BombaArduinoProjekt) — Arduino Nano–powered replica of the CS2/CSGO C4 bomb, built for airsoft
+- 🔗 [**RovnomerPenez**](https://github.com/rodrickhmmm/RovnomerPenez) — a Python tool for evenly splitting money
+- 🔗 [**Balatro-U.github.io**](https://github.com/Balatro-U/Balatro-U.github.io) — community site work, mostly CSS
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
