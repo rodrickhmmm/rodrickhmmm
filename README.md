@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B084F5&center=true&vCenter=true&width=500&lines=Tinkering+with+Arduino+%F0%9F%94%A7;Building+Adventure+of+Rohlik+%F0%9F%8E%AE;Writing+Python+%26+C%2B%2B;Based+in+Pardubice%2C+Czechia+%F0%9F%87%A8%F0%9F%87%BF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=B084F5&center=true&vCenter=true&width=550&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;Studying+at+OA+TGM+Kostelec+nad+Orlici+%F0%9F%8E%93" />
 </p>
 
 <!-- Quick-link buttons -->
@@ -24,17 +24,26 @@
 
 ### 🔭 What I'm into
 
-- 🎮 Building a homebrew game — **Adventure of Rohlik** for Nintendo 3DS/2DS
-- 🔧 Arduino projects — from a DIY thermometer to a (very much prop) CS2/CSGO-style airsoft C4 replica
-- 🌐 Occasional web/CSS work on community sites like **Balatro-U**
-- 🐍 Python for random utility tools
+- 🐍 Mainly working with **Python** right now — building small GUI software, plus just messing around with random ideas
+- 🌐 Making websites with **HTML, CSS & JavaScript**
+- 🔧 Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
+- 📚 Want to dive deeper into **C#** next — started learning it at school this year
+- 🎮 Have some past experience with game dev, though it's not something I'm actively doing anymore
+
+### 🎓 Currently studying
+
+**Obchodní akademie TGM, Kostelec nad Orlicí** — heading into my 3rd year
 
 ### 🧰 Tech I reach for
 
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=9D4EDD&labelColor=000000)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=9D4EDD&labelColor=000000)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3&logoColor=9D4EDD&labelColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=9D4EDD&labelColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=9D4EDD&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9D4EDD&labelColor=000000)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=9D4EDD&labelColor=000000)
+![C#](https://img.shields.io/badge/-C%23_(learning)-000000?style=for-the-badge&logo=csharp&logoColor=9D4EDD&labelColor=000000)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=9D4EDD&labelColor=000000)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi_Pico-000000?style=for-the-badge&logo=raspberrypi&logoColor=9D4EDD&labelColor=000000)
 
 ---
 
@@ -59,7 +68,6 @@
 
 | Repo | What it is |
 |---|---|
-| [AofRccifiles](https://github.com/rodrickhmmm/AofRccifiles) | Cci files for *Adventure of Rohlik*, a homebrew game in progress for 3DS/2DS |
 | [C4BombaArduinoProjekt](https://github.com/rodrickhmmm/C4BombaArduinoProjekt) | Arduino Nano–powered replica of the CS2/CSGO C4 bomb, built for airsoft |
 | [Arduino-teplomer-projekt](https://github.com/rodrickhmmm/Arduino-teplomer-projekt) | An Arduino-based thermometer project |
 | [RovnomerPenez](https://github.com/rodrickhmmm/RovnomerPenez) | A Python tool for evenly splitting money |
