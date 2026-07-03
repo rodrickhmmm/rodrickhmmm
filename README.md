@@ -5,7 +5,7 @@
 <table>
 <tr><td>
 
-&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>rodri@github:~</code>
+🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>rodri@github:~</code>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;" />
 
