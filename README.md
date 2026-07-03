@@ -123,7 +123,7 @@ Want to learn   : Web frameworks (React, etc.) — someday soon
 ## 🐍 &nbsp;Contribution snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEAP3XHQEM4NDIVCVBBIJDCU2SHUASA" />
 </div>
 
 > ⚠️ Needs a one-time GitHub Actions setup — see notes below.
