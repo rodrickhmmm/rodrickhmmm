@@ -126,8 +126,6 @@ Want to learn   : Web frameworks (React, etc.) — someday soon
 <img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAEAP3XHQEM4NDIVCVBBIJDCU2SHUASA" />
 </div>
 
-> ⚠️ Needs a one-time GitHub Actions setup — see notes below.
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=rodrickhmmm&style=for-the-badge&color=3F0591&label=PROFILE+VIEWS&labelColor=000000" />
