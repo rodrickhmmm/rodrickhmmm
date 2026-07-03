@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>rodri@github:~</code>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python;Messing+around+with+HTML%2C+CSS+%26+JS;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico" />
 
 </td></tr>
 </table>
@@ -22,9 +22,9 @@
 
 </div>
 
-## 👤 &nbsp;About me
+## About me
 
-I'm Rodri, a student who mostly lives in Python — writing small GUI tools and just fooling around with random ideas — with a growing interest in web and embedded dev on the side.
+I'm Rodri, a student who loves software engineering, and mostly lives in Python - writing small GUI tools and just fooling around with random ideas. I have also growing interest in web development on the side.
 
 ```bash
 rodri@github:~$ cat about.txt
@@ -34,26 +34,26 @@ Location           : Czechia
 Hobbies            : Programming, graphic design, producing music, playing airsoft
 Languages I speak  : English fluently at B1/B2 level and German at A1 level, my mother tongue is Czech
 Learning           : C#
-Want to learn      : Web frameworks (React, etc.) — someday soon
+Want to learn      : Web frameworks (React, etc.), C# in more detail
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
-## 🔭 &nbsp;What I'm into
+## What I'm into
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-- 🐍 &nbsp;Mainly working with **Python** right now — building small GUI software, plus just messing around with random ideas
+- 🐍 &nbsp;Mainly working with **Python** right now - building small GUI software and just messing around with random ideas
   
-- 🌐 &nbsp;Making websites with plain **HTML, CSS & JavaScript** — would love to pick up a framework like **React** down the line
+- 🌐 &nbsp;Making websites with **HTML, CSS & JavaScript**. I would love to pick up a framework like **React** down the line
   
 - 🔧 &nbsp;Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
   
 - 📚 &nbsp;Started learning **C#** at school this year
   
-- 🎮 &nbsp;Have some past experience with game dev — worked with **Unity** on a 3DS game and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
+- 🎮 &nbsp;Have some past experience with game dev. I worked with **Unity** on a 3DS game project and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
 
 </td>
 <td width="40%" align="center">
@@ -74,7 +74,7 @@ Want to learn      : Web frameworks (React, etc.) — someday soon
 </tr>
 </table>
 
-## 🧰 &nbsp;Tech I reach for
+## Languages I'm working with / learning
 
 <p>
 <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3F0591&labelColor=000000" />
@@ -83,13 +83,11 @@ Want to learn      : Web frameworks (React, etc.) — someday soon
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=3F0591&labelColor=000000" />
 <img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=3F0591&labelColor=000000" />
 <img src="https://img.shields.io/badge/-C%23_(learning)-000000?style=for-the-badge&logo=csharp&logoColor=3F0591&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=3F0591&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Raspberry_Pi_Pico-000000?style=for-the-badge&logo=raspberrypi&logoColor=3F0591&labelColor=000000" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
-## 📊 &nbsp;GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -104,7 +102,7 @@ Want to learn      : Web frameworks (React, etc.) — someday soon
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
-## 📌 &nbsp;Some of my projects
+## Some of my projects
 
 <div align="center">
 
@@ -123,13 +121,11 @@ Want to learn      : Web frameworks (React, etc.) — someday soon
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
-## 🐍 &nbsp;Contribution snake
+## Contribution snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/rodrickhmmm/rodrickhmmm/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-> ⚠️ Needs a one-time GitHub Actions setup — see notes below.
 
 <div align="center">
 
