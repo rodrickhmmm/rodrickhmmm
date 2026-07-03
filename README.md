@@ -5,9 +5,9 @@
 <table>
 <tr><td>
 
-🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>rodri@github:~</code>
+&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>rodri@github:~</code>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;Studying+at+OA+TGM+Kostelec+nad+Orlici+%F0%9F%8E%93" />
 
 </td></tr>
 </table>
@@ -24,14 +24,15 @@
 
 ## 👤 &nbsp;About me
 
-I'm Rodri, a student who mostly lives in Python — writing small GUI tools and just fooling around with random ideas — with a growing interest in web and embedded dev on the side.
+I'm Rodri, a student who mostly lives in Python, writing small GUI tools and just fooling around with random ideas — with a growing interest in web and embedded dev on the side.
 
 ```bash
 rodri@github:~$ cat about.txt
-School         : Obchodni akademie TGM, Kostelec nad Orlici (3rd year)
-Location       : Czechia
-Learning lang  : C#
-Want to learn  : Web frameworks (React, etc.) — someday soon
+School    : Obchodni akademie TGM, Kostelec nad Orlici (3rd year)
+Location  : Czechia
+Learning  : C#
+Want      : Web frameworks (React, etc.) — someday soon
+Status    : compiling...
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
@@ -43,10 +44,14 @@ Want to learn  : Web frameworks (React, etc.) — someday soon
 <td width="60%" valign="top">
 
 - 🐍 &nbsp;Mainly working with **Python** right now — building small GUI software, plus just messing around with random ideas
+  
 - 🌐 &nbsp;Making websites with plain **HTML, CSS & JavaScript** — would love to pick up a framework like **React** down the line
+  
 - 🔧 &nbsp;Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
+  
 - 📚 &nbsp;Started learning **C#** at school this year
-- 🎮 &nbsp;Have some past experience with game dev — worked with **Unity** on a 3DS game and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
+  
+- 🎮 &nbsp;Have some past experience with game dev — worked with **Unity** on a 3DS game and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore 
 
 </td>
 <td width="40%" align="center">
