@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;<code>rodri@github:~</code>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;Studying+at+OA+TGM+Kostelec+nad+Orlici+%F0%9F%8E%93" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=7B2FD4&background=00000000&center=true&vCenter=true&width=650&lines=Building+GUI+tools+with+Python+%F0%9F%90%8D;Messing+around+with+HTML%2C+CSS+%26+JS+%F0%9F%8C%90;Tinkering+with+Arduino%2C+ESP32+%26+Pi+Pico+%F0%9F%94%A7;" />
 
 </td></tr>
 </table>
@@ -24,15 +24,14 @@
 
 ## 👤 &nbsp;About me
 
-I'm Rodri, a student who mostly lives in Python, writing small GUI tools and just fooling around with random ideas — with a growing interest in web and embedded dev on the side.
+I'm Rodri, a student who mostly lives in Python — writing small GUI tools and just fooling around with random ideas — with a growing interest in web and embedded dev on the side.
 
 ```bash
 rodri@github:~$ cat about.txt
-School    : Obchodni akademie TGM, Kostelec nad Orlici (3rd year)
-Location  : Czechia
-Learning  : C#
-Want      : Web frameworks (React, etc.) — someday soon
-Status    : compiling...
+School          : Obchodni akademie TGM, Kostelec nad Orlici (3rd year)
+Location        : Czechia
+Learning        : C#
+Want to learn   : Web frameworks (React, etc.) — someday soon
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
@@ -44,14 +43,10 @@ Status    : compiling...
 <td width="60%" valign="top">
 
 - 🐍 &nbsp;Mainly working with **Python** right now — building small GUI software, plus just messing around with random ideas
-  
 - 🌐 &nbsp;Making websites with plain **HTML, CSS & JavaScript** — would love to pick up a framework like **React** down the line
-  
 - 🔧 &nbsp;Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
-  
 - 📚 &nbsp;Started learning **C#** at school this year
-  
-- 🎮 &nbsp;Have some past experience with game dev — worked with **Unity** on a 3DS game and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore 
+- 🎮 &nbsp;Have some past experience with game dev — worked with **Unity** on a 3DS game and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
 
 </td>
 <td width="40%" align="center">
@@ -91,6 +86,9 @@ Status    : compiling...
 
 <div align="center">
 
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=rodrickhmmm&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrickhmmm&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=7B2FD4&text_color=FFFFFF" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrickhmmm&hide_border=true&background=0D0D0D&stroke=3F0591&ring=3F0591&fire=7B2FD4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7B2FD4" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrickhmmm&hide_border=true&bg_color=0D0D0D&color=7B2FD4&line=3F0591&point=FFFFFF&area=true&area_color=3F0591" />
@@ -101,9 +99,20 @@ Status    : compiling...
 
 ## 📌 &nbsp;Some of my projects
 
-- 🔗 [**C4BombaArduinoProjekt**](https://github.com/rodrickhmmm/C4BombaArduinoProjekt) — Arduino Nano–powered replica of the CS2/CSGO C4 bomb, built for airsoft
-- 🔗 [**RovnomerPenez**](https://github.com/rodrickhmmm/RovnomerPenez) — a Python tool for evenly splitting money
-- 🔗 [**Balatro-U.github.io**](https://github.com/Balatro-U/Balatro-U.github.io) — community site work, mostly CSS
+<div align="center">
+
+<a href="https://github.com/rodrickhmmm/C4BombaArduinoProjekt">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrickhmmm&repo=C4BombaArduinoProjekt&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF&hide_border=true" />
+</a>
+<a href="https://github.com/rodrickhmmm/RovnomerPenez">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=rodrickhmmm&repo=RovnomerPenez&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF&hide_border=true" />
+</a>
+<br>
+<a href="https://github.com/Balatro-U/Balatro-U.github.io">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Balatro-U&repo=Balatro-U.github.io&bg_color=0D0D0D&title_color=7B2FD4&icon_color=3F0591&text_color=FFFFFF&hide_border=true" />
+</a>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
