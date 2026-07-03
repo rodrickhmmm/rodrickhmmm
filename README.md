@@ -15,8 +15,8 @@
 <br>
 
 <a href="http://rodrickhmmm.github.io"><img src="https://img.shields.io/badge/🌐_WEBSITE-VISIT-3F0591?style=for-the-badge&labelColor=000000" /></a>
-<a href="mailto:rodriunderscored@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-CONTACT-3F0591?style=for-the-badge&labelColor=000000" /></a>
 <a href="https://github.com/rodrickhmmm?tab=repositories"><img src="https://img.shields.io/badge/💻_REPOS-BROWSE-3F0591?style=for-the-badge&labelColor=000000" /></a>
+<a href="mailto:rodriunderscored@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-CONTACT-3F0591?style=for-the-badge&labelColor=000000" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:3F0591&height=3&width=1000" />
 
@@ -43,9 +43,13 @@ Want to learn   : Web frameworks (React, etc.) — someday soon
 <td width="60%" valign="top">
 
 - 🐍 &nbsp;Mainly working with **Python** right now — building small GUI software, plus just messing around with random ideas
+  
 - 🌐 &nbsp;Making websites with plain **HTML, CSS & JavaScript** — would love to pick up a framework like **React** down the line
+  
 - 🔧 &nbsp;Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
+  
 - 📚 &nbsp;Started learning **C#** at school this year
+  
 - 🎮 &nbsp;Have some past experience with game dev — worked with **Unity** on a 3DS game and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
 
 </td>
