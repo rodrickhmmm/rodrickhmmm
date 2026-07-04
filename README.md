@@ -45,15 +45,15 @@ Want to learn      : Web frameworks (React, etc.), C# in more detail
 <tr>
 <td width="60%" valign="top">
 
-- 🐍 &nbsp;Mainly working with **Python** right now - building small GUI software and just messing around with random ideas
+- &nbsp;Mainly working with **Python** right now - building small GUI software and just messing around with random ideas
   
-- 🌐 &nbsp;Making websites with **HTML, CSS & JavaScript**. I would love to pick up a framework like **React** down the line
+- &nbsp;Making websites with **HTML, CSS & JavaScript**. I would love to pick up a framework like **React** down the line
   
-- 🔧 &nbsp;Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
+- &nbsp;Tinkering with **Arduino** (C++), **ESP32**, and **Raspberry Pi Pico** (MicroPython)
   
-- 📚 &nbsp;Started learning **C#** at school this year
+- &nbsp;Started learning **C#** at school this year
   
-- 🎮 &nbsp;Have some past experience with game dev. I worked with **Unity** on a 3DS game project and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
+- &nbsp;Have some past experience with game dev. I worked with **Unity** on a 3DS game project and with **GameMaker Studio 2**, though it's not something I'm actively doing anymore
 
 </td>
 <td width="40%" align="center">
